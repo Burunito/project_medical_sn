@@ -1,0 +1,22 @@
+.main-box {
+  border: 2px solid #b3afaf;
+  margin-top: 2rem;
+  border-radius: 1rem;
+  box-shadow: 1px 2px 14px;
+}
+
+.header-button {
+  min-height: 30px;
+  padding: .5rem;
+  border-radius: .3rem;
+  box-shadow: 1px 1px 8px;
+}
+
+.header-button:hover {
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
+
+.selected-menu {
+  background-color: #f1f1f1;
+}
